@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Parch</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">PARCH</string>
+    <string name="nav_header_subtitle">Parche Localizador para niños</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuracion</string>
+
+    <string name="menu_home">Registrar</string>
+    <string name="menu_gallery">Parche</string>
+    <string name="menu_slideshow">Mapa</string>
+    <string name="menu_tools">Configuración</string>
+    <string name="menu_share">Comparte</string>
+    <string name="menu_send">Soporte</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="Text">Status: -</string>
+    <string name="on">Turn On</string>
+    <string name="off">Turn Off</string>
+    <string name="List">List paired Devices</string>
+    <string name="Find">Search new Devices / Cancel</string>
+</resources>
